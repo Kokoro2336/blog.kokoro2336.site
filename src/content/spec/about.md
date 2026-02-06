@@ -1,9 +1,12 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# About Me
+**Kokoro2336 desu**.
 
-::github{repo="saicaca/fuwari"}
+来自HITSZ计算机科学与技术专业的大二学生。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+我曾经获得 2025 CSCC 操作系统设计赛 全国一等奖。
+目前正在准备 2026 CSCC 编译系统设计赛(华为毕昇杯)。
+
+我对如下领域感兴趣：
+* **Compiler Engineering**
+* 计算机体系结构
+* 前端
