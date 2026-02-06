@@ -108,7 +108,7 @@ Commit 之后 Space 将自动启动容器。
 
 将图中的 `params` 对应到接下来 FreshRSS 的环境变量当中即可。
 
-:::info
+:::tip
 Direct Connection 模式仅支持`ipv6`。如果想要兼容`ipv4`，请使用 Session Pool 模式。
 :::
 
