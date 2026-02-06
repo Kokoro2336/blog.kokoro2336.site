@@ -1,7 +1,7 @@
 ---
-title: Include Video in the Posts
-published: 2023-08-01
-description: This post demonstrates how to include embedded video in a blog post.
+title: 零元购自建RSS订阅服务
+published: 2026-02-06
+description: 如何白嫖免费的云主机构建一套RSS订阅系统
 tags: [RSS, 自建]
 category: Tech
 draft: false
@@ -41,6 +41,7 @@ Direct Connection和Session Pool
 FreshRSS API的坑和登录的区别
 
 设置Trigger: `cron-job.org -> fresh-rss.kokoro2336.site -> rsshub.kokoro2336.site & supabase`
+
 # RSS Reader Selection
 本人筛选出了几款能用的 RSS Reader :
 
@@ -52,8 +53,8 @@ FreshRSS API的坑和登录的区别
 # FreshRSS Envs
 ```bash
 # FRESHRSS_INSTALL
---default-user=kokoro --base-url=https://fresh-rss.kokoro2336.site --language=zh-cn --db-type=pgsql --db-host=aws-1-us-east-1.pooler.supabase.com --db-user=postgres.oomayqalehkssstlpuik --db-password=PostgreRS2336 --db-base=postgres --api-enabled --auth-type=form --db-prefix
+--default-user= --base-url= --language= --db-type= --db-host= --db-user= --db-password= --db-base= --api-enabled --auth-type=form --db-prefix
 
 # FRESHRSS_USER
---user=kokoro --password=FreshRS2336 --api-password=FreshRSS2336 --email=2529677678@qq.com --language=zh-cn
+--user= --password= --api-password=--email= --language=
 ```

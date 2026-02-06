@@ -1,6 +1,6 @@
 ---
-title: Include Video in the Posts
-published: 2026-2-6
+title: Hello World!
+published: 2026-02-06
 description: The first post.
 tags: [Frontend, EN]
 category: Tech
