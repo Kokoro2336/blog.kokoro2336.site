@@ -183,7 +183,7 @@ TZ=Asia/Shanghai
 
 `TRUSTED_PROXY`:
 ```bash
-# The proxy you trusted. For example, cloudflare
+# The proxy you trusted. Usually this env is set to private IP range.
 10.0.0.0/8
 ```
 
