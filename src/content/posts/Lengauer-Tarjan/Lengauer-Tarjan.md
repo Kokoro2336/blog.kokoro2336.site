@@ -1,10 +1,10 @@
 ---
 title: Building Dominator Tree via Lengauer-Tarjan Algorithm
-published: 2026-02-09
+published: 2026-02-19
 description: ACM TOPLAS Vol.1 No.1 A fast algorithm for finding dominators in a flowgraph
 tags: [Compiler, 毕昇杯, CN]
 category: Tech
-draft: true
+draft: false
 ---
 
 # 前言
